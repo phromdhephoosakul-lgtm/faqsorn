@@ -213,9 +213,9 @@
         </div>
         <div class="answer" aria-hidden="true">
           <ul>
-            <li><a href="https://drive.google.com/file/d/1toelJgD3yy5Jzc3rJ52ybRf5pocvtCvv/view?usp=sharing" id="homeloan4u" target="_blank">กู้ซื้อบ้าน Homeloan4U</a></li>
-            <li><a href="https://drive.google.com/file/d/11KaBUi44d3jGInjgkeqzdRWDi2yOW2bn/view?usp=sharing" id="homeloan4u" target="_blank">รีไฟแนนซ์ Refinance</a></li>
-            <li><a href="https://drive.google.com/file/d/19c9Q7z4UiUDqWm83wiov6sushd679XKD/view?usp=sharing" id="homeloan4u" target="_blank">บ้านแลกเงิน Home4Cash</a></li>
+            <li><a href="https://drive.google.com/file/d/1P-zwpi-gMoCGNXyqHGsPc2yyP9zkFt_q/view?usp=sharing" id="homeloan4u" target="_blank">กู้ซื้อบ้าน Homeloan4U</a></li>
+            <li><a href="https://drive.google.com/file/d/1U6Vh3GKEeiIGA2E-KTJpOZtTnaApVB2V/view?usp=sharing" id="refinance" target="_blank">รีไฟแนนซ์ Refinance</a></li>
+            <li><a href="https://drive.google.com/file/d/1hv78yCPzx8U4g3mnXAtrpn-GoCzniZWE/view?usp=sharing" id="home4cash" target="_blank">บ้านแลกเงิน Home4Cash</a></li>
           </ul>
           <p><Strong>หมายเหตุ : </strong>ผู้กู้ทุกท่านต้องนำบัตรประชาชนตัวจริงมาแสดงตนต่อหน้าเจ้าหน้าที่ธนาคาร หรือพนักงานรับเอกสาร (Messenger) เพื่อพิสูจน์ตัวตน ทั้งนี้ ธนาคารขอสงวนสิทธิ์ไม่รับพิจารณาคำขอสินเชื่อจากลูกค้าที่ไม่ได้รับการยืนยันตัวตน (KYC) ในทุกกรณี</p>
         </div>
