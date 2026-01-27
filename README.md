@@ -391,6 +391,7 @@
         </div>
         <div class="answer" aria-hidden="true">
           <ul>
+            <li><a href="https://drive.google.com/file/d/1JzGxn1TPYO3rIINfMozxVRclBC_QyObp/view?usp=sharing_blank" id="form-catalog" target="_blank">Product Catalog</a></li>          
             <li><a href="https://drive.google.com/file/d/1xetkIlkdUDQtkYt1M9gfdwIthCxpHtzS/view?usp=sharing_blank" id="form-loan" target="_blank">คำขอใช้บริการสินเชื่อประเภทมีหลักประกัน</a></li>
             <li><a href="https://drive.google.com/file/d/16YAMQYsgEiREBFQOSI9s5q6Cs_OYD0fC/view?usp=sharing_blank" id="form-pdpa" target="_blank">หนังสือให้ความยินยอม PDPA Consents</a></li>
             <li><a href="https://drive.google.com/file/d/1ctjuBQ2EMu_SkWXthoS_M3XZViwu4Esy/view?usp=sharing_blank" id="form-ncb" target="_blank">หนังสือให้ความยินยอม NCB</a></li>
@@ -465,4 +466,3 @@
   </script>
 </body>
 </html>
-# faqsorn
