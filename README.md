@@ -384,7 +384,7 @@
             <li>ขั้นตอนที่ 7 : กดเลือกเมนู “ขอหนังสือรับรองดอกเบี้ยบ้าน”</li>
             <li>ขั้นตอนที่ 8 : ระบบจะแสดงข้อความ “ขอหนังสือรับรองดอกเบี้ยบ้านสำเร็จ” กดเลือกเมนู “เสร็จสิ้น”</li>
             <li>ขั้นตอนที่ 9 : ระบบจะแจ้งเตือนในแอปว่า “ได้รับคำขอเอกสารเรียบร้อยแล้ว”</li>
-            <p><a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/how-to-request-home-loan-certification-through-app-cimb-thai-digital-banking.html" id="form-interest  " target="_blank">Product Catalog</a></p> 
+            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/how-to-request-home-loan-certification-through-app-cimb-thai-digital-banking.html" id="form-interest  " target="_blank">ขอหนังสือรับรองดอกเบี้ยบ้านธนาคาร ซีไอเอ็มบี ไทย</a></p> 
           </ul>
         </div>
       </div>
