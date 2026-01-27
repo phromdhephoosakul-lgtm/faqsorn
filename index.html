@@ -369,7 +369,7 @@
 
       <div class="item" data-id="13">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
-          <h3>จะขอหนังสือรับรองดอกเบี้ยได้จากที่ไหน ?</h3>
+          <h3>จะขอหนังสือรับรองดอกเบี้ยบ้านได้จากที่ไหน ?</h3>
           <div class="chev" aria-hidden="true">›</div>
         </div>
         <div class="answer" aria-hidden="true">
