@@ -213,11 +213,11 @@
         </div>
         <div class="answer" aria-hidden="true">
           <ul>
-            <li><a href="https://drive.google.com/file/d/10IM6uQ20eHV6YxLTYok7Tq34Ugf8JJKo/view?usp=sharing" id="homeloan4u" target="_blank">กู้ซื้อบ้าน Homeloan4U</a></li>
-            <li><a href="https://drive.google.com/file/d/1ZUAgyIfJB2y1T07PHI-OZi9kkqktwBlH/view?usp=sharing" id="refinance" target="_blank">รีไฟแนนซ์ Refinance</a></li>
-            <li><a href="https://drive.google.com/file/d/1k4A5r43nACydxAjc0BF2BmU7DwRQQApm/view?usp=sharing" id="home4cash" target="_blank">บ้านแลกเงิน Home4Cash</a></li>
+            <li><a href="https://drive.google.com/file/d/10IM6uQ20eHV6YxLTYok7Tq34Ugf8JJKo/view?usp=sharing" id="homeloan4u" target="_blank" rel="noopener noreferrer">กู้ซื้อบ้าน Homeloan4U</a></li>
+            <li><a href="https://drive.google.com/file/d/1ZUAgyIfJB2y1T07PHI-OZi9kkqktwBlH/view?usp=sharing" id="refinance" target="_blank" rel="noopener noreferrer">รีไฟแนนซ์ Refinance</a></li>
+            <li><a href="https://drive.google.com/file/d/1k4A5r43nACydxAjc0BF2BmU7DwRQQApm/view?usp=sharing" id="home4cash" target="_blank" rel="noopener noreferrer">บ้านแลกเงิน Home4Cash</a></li>
           </ul>
-          <p><Strong>หมายเหตุ : </strong>ผู้กู้ทุกท่านต้องนำบัตรประชาชนตัวจริงมาแสดงตนต่อหน้าเจ้าหน้าที่ธนาคาร หรือพนักงานรับเอกสาร (Messenger) เพื่อพิสูจน์ตัวตน ทั้งนี้ ธนาคารขอสงวนสิทธิ์ไม่รับพิจารณาคำขอสินเชื่อจากลูกค้าที่ไม่ได้รับการยืนยันตัวตน (KYC) ในทุกกรณี</p>
+          <p><Strong>หมายเหตุ : </strong>เมื่อเตรียมเอกสารเรียบร้อยแล้ว โปรดติดต่อเจ้าหน้าที่ผู้ให้บริการท่านเข้ารับเอกสารประกอบการสมัครและผู้กู้ทุกท่านต้องนำบัตรประชาชนตัวจริงมาแสดงต่อหน้าเจ้าหน้าที่ธนาคาร หรือพนักงานรับเอกสาร (Messenger) เพื่อพิสูจน์ตัวตน ทั้งนี้ ธนาคารขอสงวนสิทธิ์ไม่รับพิจารณาคำขอสินเชื่อจากลูกค้าที่ไม่ได้รับการยืนยันตัวตน (KYC) ในทุกกรณี</p>
         </div>
       </div>
 
@@ -413,15 +413,15 @@
         </div>
         <div class="answer" aria-hidden="true">
           <ul>
-            <li><a href="https://drive.google.com/file/d/1JzGxn1TPYO3rIINfMozxVRclBC_QyObp/view?usp=sharing_blank" id="form-catalog" target="_blank">Product Catalog</a></li>      
-            <li><a href="https://drive.google.com/file/d/1xetkIlkdUDQtkYt1M9gfdwIthCxpHtzS/view?usp=sharing_blank" id="form-loan" target="_blank">คำขอใช้บริการสินเชื่อประเภทมีหลักประกัน</a></li>
-            <li><a href="https://drive.google.com/file/d/16YAMQYsgEiREBFQOSI9s5q6Cs_OYD0fC/view?usp=sharing_blank" id="form-pdpa" target="_blank">หนังสือให้ความยินยอม PDPA Consents</a></li>
-            <li><a href="https://drive.google.com/file/d/1ctjuBQ2EMu_SkWXthoS_M3XZViwu4Esy/view?usp=sharing_blank" id="form-ncb" target="_blank">หนังสือให้ความยินยอม NCB</a></li>
-            <li><a href="https://drive.google.com/file/d/1K6kGS4hJZeNps8Ieyh4AEeKQmYBvjedc/view?usp=sharing_blank" id="form-insurance" target="_blank">แบบสอบถามความต้องการซื้อประกันชีวิตคุ้มครองสินเชื่อบ้าน</a></li>
-            <li><a href="https://drive.google.com/file/d/18HL1PpORB1RnGvF3FyxMV5P8hZQ0n-0U/view?usp=sharing_blank" id="form-guide" target="_blank">คำแนะนำในการกรอกใบคำขอและลงชื่อ</a></li>
-            <li><a href="https://drive.google.com/file/d/1ttUvl179uNtstflzSI-25o4sEFR4pZw3/view?usp=sharing_blank" id="form-close" target="_blank">แบบฟอร์มยกเลิกวงเงินสินเชื่อ ชำระหนี้ปิดบัญชี และไถ่ถอนหลักประกัน</a></li>
-            <li><a href="https://drive.google.com/file/d/1K8JK27M_yuYpTMRIQtwOrlj4sQe5NiAR/view?usp=sharing_blank" id="Sales sheet HL" target="_blank">Sales Sheet Homeloan ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่อบ้าน</a></li>
-            <li><a href="https://drive.google.com/file/d/1OlgplTDN4sj0Lr_hrpE9NCvN_vREQflx/view?usp=sharing_blank" id="Sales Sheet MP" target="_blank">Sales sheet Mortgagepower ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่ออเนกประสงค์</a></li>
+            <li><a href="https://drive.google.com/file/d/1JzGxn1TPYO3rIINfMozxVRclBC_QyObp/view?usp=sharing_blank" id="form-catalog" target="_blank" rel="noopener noreferrer">Product Catalog</a></li>      
+            <li><a href="https://drive.google.com/file/d/1xetkIlkdUDQtkYt1M9gfdwIthCxpHtzS/view?usp=sharing_blank" id="form-loan" target="_blank" rel="noopener noreferrer">คำขอใช้บริการสินเชื่อประเภทมีหลักประกัน</a></li>
+            <li><a href="https://drive.google.com/file/d/16YAMQYsgEiREBFQOSI9s5q6Cs_OYD0fC/view?usp=sharing_blank" id="form-pdpa" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอม PDPA Consents</a></li>
+            <li><a href="https://drive.google.com/file/d/1ctjuBQ2EMu_SkWXthoS_M3XZViwu4Esy/view?usp=sharing_blank" id="form-ncb" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอม NCB</a></li>
+            <li><a href="https://drive.google.com/file/d/1K6kGS4hJZeNps8Ieyh4AEeKQmYBvjedc/view?usp=sharing_blank" id="form-insurance" target="_blank" rel="noopener noreferrer">แบบสอบถามความต้องการซื้อประกันชีวิตคุ้มครองสินเชื่อบ้าน</a></li>
+            <li><a href="https://drive.google.com/file/d/18HL1PpORB1RnGvF3FyxMV5P8hZQ0n-0U/view?usp=sharing_blank" id="form-guide" target="_blank" rel="noopener noreferrer">คำแนะนำในการกรอกใบคำขอและลงชื่อ</a></li>
+            <li><a href="https://drive.google.com/file/d/1ttUvl179uNtstflzSI-25o4sEFR4pZw3/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">แบบฟอร์มยกเลิกวงเงินสินเชื่อ ชำระหนี้ปิดบัญชี และไถ่ถอนหลักประกัน</a></li>
+            <li><a href="https://drive.google.com/file/d/1K8JK27M_yuYpTMRIQtwOrlj4sQe5NiAR/view?usp=sharing_blank" id="Sales sheet HL" target="_blank" rel="noopener noreferrer">Sales Sheet Homeloan ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่อบ้าน</a></li>
+            <li><a href="https://drive.google.com/file/d/1OlgplTDN4sj0Lr_hrpE9NCvN_vREQflx/view?usp=sharing_blank" id="Sales Sheet MP" target="_blank" rel="noopener noreferrer">Sales sheet Mortgagepower ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่ออเนกประสงค์</a></li>
           </ul>
         </div>
       </div>
