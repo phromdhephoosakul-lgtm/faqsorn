@@ -279,7 +279,7 @@
           <div class="chev" aria-hidden="true">›</div>
         </div>
         <div class="answer" aria-hidden="true">
-          <p>สามารถชำระค่างวดเกินหรือจ่ายเพิ่ม (โปะ) เท่าไหร่ก็ได้ตลอดเวลาตั้งแต่งวดแรก แต่ห้ามชำระค่างวดน้อยกว่าขั้นต่ำที่ธนาคารกำหนด ข้อควรระวัง การชำระค่างวดเกินเป็นจำนวนมาก อาจทำให้บัญชีปิดและต้องไถ่ถอนหลักประกันก่อนครบกำหนด ซึ่งอาจมีค่าธรรมเนียมและค่าใช้จ่ายตามเงื่อนไขในสัญญา สามารถศึกษารายละเอียดวิธี "โปะ" ค่างวดของธนาคาร ได้ที่ <a href="https://drive.google.com/file/d/1E5twW6sV_IVmuKe_j9IgFe1FcVUEqeJv/view?usp=sharing" id="form-explain" target="_blank">คำอธิบายการสรุปบัญชีเพื่อเรียกเก็บค่างวดรายเดือน</a></p>
+          <p>สามารถชำระค่างวดเกินหรือจ่ายเพิ่ม (โปะ) เท่าไหร่ก็ได้ตลอดเวลาตั้งแต่งวดแรก แต่ห้ามชำระค่างวดน้อยกว่าขั้นต่ำที่ธนาคารกำหนด ข้อควรระวัง การชำระค่างวดเกินเป็นจำนวนมาก อาจทำให้บัญชีปิดและต้องไถ่ถอนหลักประกันก่อนครบกำหนด ซึ่งอาจมีค่าธรรมเนียมและค่าใช้จ่ายตามเงื่อนไขในสัญญา สามารถศึกษารายละเอียดวิธี "โปะ" ค่างวดของธนาคาร ได้ที่ <a href="https://drive.google.com/file/d/1E5twW6sV_IVmuKe_j9IgFe1FcVUEqeJv/view?usp=sharing" id="form-explain" target="_blank" rel="noopener noreferrer">คำอธิบายการสรุปบัญชีเพื่อเรียกเก็บค่างวดรายเดือน</a></p>
         </div>
       </div>
 
@@ -384,7 +384,7 @@
             <li>ขั้นตอนที่ 7 : กดเลือกเมนู “ขอหนังสือรับรองดอกเบี้ยบ้าน”</li>
             <li>ขั้นตอนที่ 8 : ระบบจะแสดงข้อความ “ขอหนังสือรับรองดอกเบี้ยบ้านสำเร็จ” กดเลือกเมนู “เสร็จสิ้น”</li>
             <li>ขั้นตอนที่ 9 : ระบบจะแจ้งเตือนในแอปว่า “ได้รับคำขอเอกสารเรียบร้อยแล้ว”</li>
-            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/how-to-request-home-loan-certification-through-app-cimb-thai-digital-banking.html" id="form-interest  " target="_blank">ขอหนังสือรับรองดอกเบี้ยบ้านธนาคาร ซีไอเอ็มบี ไทย</a></p> 
+            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/how-to-request-home-loan-certification-through-app-cimb-thai-digital-banking.html" id="form-interest" target="_blank" rel="noopener noreferrer">ขอหนังสือรับรองดอกเบี้ยบ้านธนาคาร ซีไอเอ็มบี ไทย</a></p> 
           </ul>
         </div>
       </div>
