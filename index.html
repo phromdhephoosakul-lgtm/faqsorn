@@ -158,7 +158,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="logo">QA</div>
+      <div class="logo">FAQ</div>
       <div>
         <h1>คำถามที่พบบ่อย</h1>
         <p class="lead">Frequently Asked Questions.</p>
