@@ -373,7 +373,7 @@
           <div class="chev" aria-hidden="true">›</div>
         </div>
         <div class="answer" aria-hidden="true">
-          <p>ลูกค้าสินเชื่อบ้านของธนาคาร ซีไอเอ็มบี ไทย จะสามารถเริ่มขอหนังสือรับรองดอกเบี้ยบ้านได้ผ่านแอป CIMB THAI ตั้งแต่วันที่ 25 ม.ค. ของทุกปี โดยธนาคารจะจัดส่งหนังสือรับรองดอกเบี้ยบ้านให้ท่านทางอีเมลที่แจ้งไว้กับธนาคาร ซึ่งสามารถดำเนินการได้ตามขั้นตอน ดังนี้</p>
+          <p>ลูกค้าสินเชื่อบ้านของธนาคาร ซีไอเอ็มบี ไทย <strong>(เฉพาะผู้กู้หลัก เท่านั้น!)</strong> จะสามารถเริ่มขอหนังสือรับรองดอกเบี้ยบ้านได้ผ่านแอป CIMB THAI ตั้งแต่วันที่ 25 ม.ค. ของทุกปี โดยธนาคารจะจัดส่งหนังสือรับรองดอกเบี้ยบ้านให้ท่านทางอีเมลที่แจ้งไว้กับธนาคาร ซึ่งสามารถดำเนินการได้ตามขั้นตอน ดังนี้</p>
           <ul>
             <li>ขั้นตอนที่ 1 : เมื่อเข้าสู่แอป CIMB THAI กดเลือกเมนู "+"</li>
             <li>ขั้นตอนที่ 2 : กดเลือกเมนู “สินเชื่อ” ไปหน้าบริการทั้งหมด</li>
@@ -384,7 +384,8 @@
             <li>ขั้นตอนที่ 7 : กดเลือกเมนู “ขอหนังสือรับรองดอกเบี้ยบ้าน”</li>
             <li>ขั้นตอนที่ 8 : ระบบจะแสดงข้อความ “ขอหนังสือรับรองดอกเบี้ยบ้านสำเร็จ” กดเลือกเมนู “เสร็จสิ้น”</li>
             <li>ขั้นตอนที่ 9 : ระบบจะแจ้งเตือนในแอปว่า “ได้รับคำขอเอกสารเรียบร้อยแล้ว”</li>
-            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/how-to-request-home-loan-certification-through-app-cimb-thai-digital-banking.html" id="form-interest" target="_blank" rel="noopener noreferrer">ขอหนังสือรับรองดอกเบี้ยบ้านธนาคาร ซีไอเอ็มบี ไทย</a></p> 
+            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/how-to-request-home-loan-certification-through-app-cimb-thai-digital-banking.html" id="form-interest" target="_blank" rel="noopener noreferrer">ขอหนังสือรับรองดอกเบี้ยบ้านธนาคาร ซีไอเอ็มบี ไทย</a></p>
+            <p>กรณี ผู้กู้ร่วม ท่านสามารถใช้หนังสือรับรองดอกเบี้ยบ้านฉบับเดียวกันกับผู้กู้หลักได้ และในกรณี ลูกค้าปิดบัญชีสินเชื่อ ไถ่ถอนหลักประกันในระหว่างปี ธนาคาร ซีไอเอ็มบี ไทย จะจัดส่งหนังสือรับรองดอกเบี้ยบ้านไปให้ตามที่อยู่จัดส่งเอกสารทางไปรษณีย์ลงทะเบียนตอบรับ หรือต้องการสำเนาสามารถร้องขอได้ที่ CIMB THAI Care Center ที่หมายเลข 02-626-7777 กด 5 ต่อ 4</p>
           </ul>
         </div>
       </div>
@@ -413,7 +414,8 @@
         </div>
         <div class="answer" aria-hidden="true">
           <ul>
-            <li><a href="https://drive.google.com/file/d/1JzGxn1TPYO3rIINfMozxVRclBC_QyObp/view?usp=sharing_blank" id="form-catalog" target="_blank" rel="noopener noreferrer">Product Catalog</a></li>      
+            <li><a href="https://drive.google.com/file/d/1JzGxn1TPYO3rIINfMozxVRclBC_QyObp/view?usp=sharing_blank" id="form-catalog" target="_blank" rel="noopener noreferrer">Product Catalog ผลิตภัณฑ์สินเชื่อประเภทมีหลักประกัน</a></li>      
+            <li><a href="https://drive.google.com/file/d/1O-WfzEaLMK97tYb6g4eAUeP4hjPEX8C-/view?usp=sharing_blank" id="form-catalog" target="_blank" rel="noopener noreferrer">Product Catalog ผลิตภัณฑ์ประกันชีวิตคุ้มครองสินเชื่อ</a></li> 
             <li><a href="https://drive.google.com/file/d/1xetkIlkdUDQtkYt1M9gfdwIthCxpHtzS/view?usp=sharing_blank" id="form-loan" target="_blank" rel="noopener noreferrer">คำขอใช้บริการสินเชื่อประเภทมีหลักประกัน</a></li>
             <li><a href="https://drive.google.com/file/d/16YAMQYsgEiREBFQOSI9s5q6Cs_OYD0fC/view?usp=sharing_blank" id="form-pdpa" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอม PDPA Consents</a></li>
             <li><a href="https://drive.google.com/file/d/1ctjuBQ2EMu_SkWXthoS_M3XZViwu4Esy/view?usp=sharing_blank" id="form-ncb" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอม NCB</a></li>
