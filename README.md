@@ -51,7 +51,7 @@
   place-items:center;
   color:#fff;
   font-weight:800;
-  font-size:42px; /* เพิ่มขนาดตัวอักษร FAQ */
+  font-size:36px; /* เพิ่มขนาดตัวอักษร FAQ */
   box-shadow:var(--shadow);
   flex:0 0 90px;
     }
