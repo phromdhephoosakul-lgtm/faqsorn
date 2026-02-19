@@ -369,6 +369,33 @@
 
       <div class="item" data-id="13">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
+          <h3>ขั้นตอนการเปิดบัญชีเงินฝากออมทรัพย์ประเภท ชิลดี และสปีดดี้ พลัส ?</h3>
+          <div class="chev" aria-hidden="true">›</div>
+        </div>
+        <div class="answer" aria-hidden="true">
+          <p>ขั้นตอนการเปิดบัญชีเงินฝากออมทรัพย์นี้ สำหรับลูกค้าใหม่ ที่ไม่เคยมีหรือเคยใช้ผลิตภัณฑ์ของธนาคารมาก่อนทุกผลิตภัณฑ์แต่อย่างใด ซึ่งสามารถดำเนินการได้ตามขั้นตอน ดังนี้</p>
+          <ul>
+            <li>ขั้นตอนที่ 1 : ดาวน์โหลดแอป CIMB THAI</li>
+            <li>ขั้นตอนที่ 2 : กรอกหมายเลขบัตรประจำตัวประชาชน</li>
+            <li>ขั้นตอนที่ 3 : กรอกหมายเลขโทรศัพท์มือถือ และรหัส OTP ที่ได้รับทาง SMS</li>
+            <li>ขั้นตอนที่ 4 : เลือกประเภทบัญชีเงินฝากออมทรัพย์ตามที่ต้องการ (Chill D หรือ Speed D+)</li>
+            <li>ขั้นตอนที่ 5 : เลือกช่องทางยืนยันตัวตนผ่านบริการ NDID</li>
+            <li>ขั้นตอนที่ 6 : ตรวจสอบข้อมูลผลิตภัณฑ์</li>
+            <li>ขั้นตอนที่ 7 : กรอกข้อมูลบัตรประชาชน และกรอก Laser Code</li>
+            <li>ขั้นตอนที่ 8 : เลือกผู้ให้บริการ NDID เพื่อยืนยันตัวตน</li>
+            <li>ขั้นตอนที่ 9 : ยืนยันตัวตนผ่านแอปผู้ให้บริการที่เลือกภายใน 60 นาที</li>
+            <li>ขั้นตอนที่ 10 : กรอกข้อมูลส่วนตัว และข้อมูลการทำงาน</li>
+            <li>ขั้นตอนที่ 11 : กรอกอีเมล และรหัส OTP ที่ได้รับทางอีเมล</li>
+            <li>ขั้นตอนที่ 12 : สแกนใบหน้าเพื่อยืนยันตัวตน</li>
+            <li>ขั้นตอนที่ 13 : ธนาคารจะแจ้งหมายเลขบัญชีที่เปิดเรียบร้อยผ่าน SMS / อีเมล</li>
+            <li>ขั้นตอนที่ 14 : ตั้งรหัส 6 หลัก สำหรับเข้าใช้งานแอป CIMB THAI Digital Banking</li>
+            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://drive.google.com/file/d/1RJMTRaPe6JVd3bonqcamz65nPhiH47I9/view?usp=sharing"_blank" rel="noopener noreferrer">ขั้นตอนการเปิดบัญชีเงินฝากออมทรัพย์ ธนาคาร ซีไอเอ็มบี ไทย</a></p>
+            <p>โปรดติดต่อสาขาของธนาคาร ซีไอเอ็มบี ไทย เพื่อทำการเปิดบัญชีเงินฝากออมทรัพย์แทน หากท่านไม่สามารถเปิดบัญชีเงินฝากออมทรัพย์ผ่านแอป CIMB THAI ได้</p>
+          </ul>
+        </div>
+      </div>
+      <div class="item" data-id="14">
+        <div class="question" tabindex="0" role="button" aria-expanded="false">
           <h3>จะขอหนังสือรับรองดอกเบี้ยบ้านได้จากที่ไหน ?</h3>
           <div class="chev" aria-hidden="true">›</div>
         </div>
@@ -390,7 +417,7 @@
         </div>
       </div>
 
-      <div class="item" data-id="14">
+      <div class="item" data-id="15">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
           <h3>ช่องทางติดต่อขอรับบริการหลังการขาย ?</h3>
           <div class="chev" aria-hidden="true">›</div>
@@ -407,7 +434,7 @@
         </div>
       </div>
 
-      <div class="item" data-id="15">
+      <div class="item" data-id="16">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
           <h3>Form Download Center แบบฟอร์มและเอกสารที่เกี่ยวข้อง สำหรับผลิตภัณฑ์สินเชื่อประเภทมีหลักประกัน</h3>
           <div class="chev" aria-hidden="true">›</div>
