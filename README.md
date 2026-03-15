@@ -424,7 +424,7 @@
           <div class="chev" aria-hidden="true">›</div>
         </div>
         <div class="answer" aria-hidden="true">
-          <p>ขั้นตอนสมัครบริการ e-Statement สำหรับลูกค้าสินเชื่อ</p>
+          <p>ขั้นตอนสมัครรับบริการ e-Statement สำหรับลูกค้าสินเชื่อ</p>
           <ul>
             <li>ขั้นตอนที่ 1 : เลือกผลิตภัณฑ์สินเชื่อ</li>
             <li>ขั้นตอนที่ 2 : เลือกบัญชีสินเชื่อที่ท่านต้องการสมัครรับบริการ e-Statement</li>
@@ -439,7 +439,7 @@
             <li>ขั้นตอนที่ 11 : กด "ยืนยัน" เพื่อดำเนินการต่อ</li>
             <li>ขั้นตอนที่ 12 : ใส่รหัสผ่านที่ได้ตั้งไว้ของแอปพลิเคชั่นเพื่อทำการยืนยัน</li>
             <li>ขั้นตอนที่ 13 : บัญชีสเินเชื่อที่ได้เลือกไว้ ได้ทำการสมัครบริการ e-Statement เรียบร้อย</li>
-            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/step-e-statement.html" rel="noopener noreferrer">ขั้นตอนการเปิดบัญชีเงินฝากออมทรัพย์ ธนาคาร ซีไอเอ็มบี ไทย</a></p>
+            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/step-e-statement.html" rel="noopener noreferrer">ขั้นตอนสมัครรับบริการ e-Statement สำหรับลูกค้าสินเชื่อ</a></p>
             <p>ท่านสามารถร้องขอสำเนาเอกสารใบแจ้งยอดหรือใบเสร็จรับเงินผ่านช่องทาง CIMB Care Center ที่หมายเลข 02-626-7777</p>
           </ul>
         </div>
@@ -458,8 +458,8 @@
             <li>ขอปรับลดอัตราดอกเบี้ยสินเชื่อมีหลักประกัน กด 2</li>
             <li>ขอสอบถามสถานะการสมัคร กด 3</li>
             <li>ขอเปลี่ยนแปลงข้อมูลส่วนบุคคล และอื่น ๆ กด 4</li>
+          </ul>  
           <p><strong>หรือส่งคำร้องของท่านผ่านทางอีเมลที่ : </strong><strong style="color:var(--accent)">carecenter.homeloan@cimbthai.com</strong></P>            
-          </ul>
         </div>
       </div>
 
@@ -478,6 +478,9 @@
             <li><a href="https://drive.google.com/file/d/1K6kGS4hJZeNps8Ieyh4AEeKQmYBvjedc/view?usp=sharing_blank" id="form-insurance" target="_blank" rel="noopener noreferrer">แบบสอบถามความต้องการซื้อประกันชีวิตคุ้มครองสินเชื่อบ้าน</a></li>
             <li><a href="https://drive.google.com/file/d/18HL1PpORB1RnGvF3FyxMV5P8hZQ0n-0U/view?usp=sharing_blank" id="form-guide" target="_blank" rel="noopener noreferrer">คำแนะนำในการกรอกใบคำขอและลงชื่อ</a></li>
             <li><a href="https://drive.google.com/file/d/1ttUvl179uNtstflzSI-25o4sEFR4pZw3/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">แบบฟอร์มยกเลิกวงเงินสินเชื่อ ชำระหนี้ปิดบัญชี และไถ่ถอนหลักประกัน</a></li>
+            <li><a href="https://drive.google.com/file/d/1yuOHsJgOT7e2jyNfcU5rn08GsIjnu3a8/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">ใบคำขอรับเงินคืน</a></li>            
+            <li><a href="https://drive.google.com/file/d/1bPzrKv_S5NTXyxF1dvdnDmlENC2DqRsd/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">ใบคำขอปรับปรุงโครงสร้างหนี้ / ขยายระยะเวลาผ่อนชำระ</a></li>      
+            <li><a href="https://drive.google.com/file/d/15vLtB6iT-aHkXkTThEsrHMI2cOHXYuxK/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอมในการเปิดเผยข้อมูลดอกเบี้ยเงินกู้เ้พื่อที่อยู่อาศัยต่อกรมสรรพากร</a></li>            
             <li><a href="https://drive.google.com/file/d/1K8JK27M_yuYpTMRIQtwOrlj4sQe5NiAR/view?usp=sharing_blank" id="Sales sheet HL" target="_blank" rel="noopener noreferrer">Sales Sheet Homeloan ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่อบ้าน</a></li>
             <li><a href="https://drive.google.com/file/d/1OlgplTDN4sj0Lr_hrpE9NCvN_vREQflx/view?usp=sharing_blank" id="Sales Sheet MP" target="_blank" rel="noopener noreferrer">Sales sheet Mortgagepower ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่ออเนกประสงค์</a></li>
           </ul>
