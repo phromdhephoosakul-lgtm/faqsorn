@@ -394,6 +394,7 @@
           </ul>
         </div>
       </div>
+      
       <div class="item" data-id="14">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
           <h3>จะขอหนังสือรับรองดอกเบี้ยบ้านได้จากที่ไหน ?</h3>
@@ -419,7 +420,34 @@
 
       <div class="item" data-id="15">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
-          <h3>ช่องทางติดต่อขอรับบริการหลังการขาย ?</h3>
+          <h3>ขั้นตอนการขอรับใบแจ้งยอดหรือใบเสร็จรับเงินในรูปแบบ e-Statement ?</h3>
+          <div class="chev" aria-hidden="true">›</div>
+        </div>
+        <div class="answer" aria-hidden="true">
+          <p>ขั้นตอนสมัครบริการ e-Statement สำหรับลูกค้าสินเชื่อ</p>
+          <ul>
+            <li>ขั้นตอนที่ 1 : เลือกผลิตภัณฑ์สินเชื่อ</li>
+            <li>ขั้นตอนที่ 2 : เลือกบัญชีสินเชื่อที่ท่านต้องการสมัครรับบริการ e-Statement</li>
+            <li>ขั้นตอนที่ 3 : กดปุ่ม e-Statement</li>
+            <li>ขั้นตอนที่ 4 : อ่านและเลื่อนลงจนสุด สำหรับการดำเนินการในขั้นถัดไป</li>
+            <li>ขั้นตอนที่ 5 : กด "ยอมรับ" เพื่อให้ความยินยอมในการรับบริการ e-Statement</li>
+            <li>ขั้นตอนที่ 6 : ทำการยืนยันอีเมลที่ใช้รับเอกสาร</li>
+            <li>ขั้นตอนที่ 7 : กรอกอีเมลที่ต้องการใช้รับเอกสาร</li>
+            <li>ขั้นตอนที่ 8 : กรอก OTP ที่ได้รับอีเมลที่ระบุเพื่อทำการยืนยัน</li>
+            <li>ขั้นตอนที่ 9 : อีเมลถูกยืนยันเรียบร้อยแล้ว</li>
+            <li>ขั้นตอนที่ 10 : เลือกบัญชีสินเชื่อที่ต้องการสมัครบริการ e-Statement</li>
+            <li>ขั้นตอนที่ 11 : กด "ยืนยัน" เพื่อดำเนินการต่อ</li>
+            <li>ขั้นตอนที่ 12 : ใส่รหัสผ่านที่ได้ตั้งไว้ของแอปพลิเคชั่นเพื่อทำการยืนยัน</li>
+            <li>ขั้นตอนที่ 13 : บัญชีสเินเชื่อที่ได้เลือกไว้ ได้ทำการสมัครบริการ e-Statement เรียบร้อย</li>
+            <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/step-e-statement.html" rel="noopener noreferrer">ขั้นตอนการเปิดบัญชีเงินฝากออมทรัพย์ ธนาคาร ซีไอเอ็มบี ไทย</a></p>
+            <p>ท่านสามารถร้องขอสำเนาเอกสารใบแจ้งยอดหรือใบเสร็จรับเงินผ่านช่องทาง CIMB Care Center ที่หมายเลข 02-626-7777</p>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="item" data-id="16">
+        <div class="question" tabindex="0" role="button" aria-expanded="false">
+          <h3>ช่องทางติดต่อขอรับบริการหลังการขายของสินเชื่อประเภทมีหลักประกัน ?</h3>
           <div class="chev" aria-hidden="true">›</div>
         </div>
         <div class="answer" aria-hidden="true">
@@ -430,11 +458,12 @@
             <li>ขอปรับลดอัตราดอกเบี้ยสินเชื่อมีหลักประกัน กด 2</li>
             <li>ขอสอบถามสถานะการสมัคร กด 3</li>
             <li>ขอเปลี่ยนแปลงข้อมูลส่วนบุคคล และอื่น ๆ กด 4</li>
+          <p><strong>หรือส่งคำร้องของท่านผ่านทางอีเมลที่ : </strong><strong style="color:var(--accent)">carecenter.homeloan@cimbthai.com</strong></P>            
           </ul>
         </div>
       </div>
 
-      <div class="item" data-id="16">
+      <div class="item" data-id="17">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
           <h3>Form Download Center แบบฟอร์มและเอกสารที่เกี่ยวข้อง สำหรับผลิตภัณฑ์สินเชื่อประเภทมีหลักประกัน</h3>
           <div class="chev" aria-hidden="true">›</div>
