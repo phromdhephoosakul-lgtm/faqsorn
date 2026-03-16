@@ -438,9 +438,9 @@
             <li>ขั้นตอนที่ 10 : เลือกบัญชีสินเชื่อที่ต้องการสมัครบริการ e-Statement</li>
             <li>ขั้นตอนที่ 11 : กด "ยืนยัน" เพื่อดำเนินการต่อ</li>
             <li>ขั้นตอนที่ 12 : ใส่รหัสผ่านที่ได้ตั้งไว้ของแอปพลิเคชั่นเพื่อทำการยืนยัน</li>
-            <li>ขั้นตอนที่ 13 : บัญชีสเินเชื่อที่ได้เลือกไว้ ได้ทำการสมัครบริการ e-Statement เรียบร้อย</li>
+            <li>ขั้นตอนที่ 13 : บัญชีสินเชื่อที่ได้เลือกไว้ ได้ทำการสมัครบริการ e-Statement เรียบร้อย</li>
             <p>ดูข้อมูลเพิ่มเติมได้ที่ <a href="https://www.cimbthai.com/th/personal/ways-to-bank/cimb-thai-digital-banking/step-e-statement.html" rel="noopener noreferrer">ขั้นตอนสมัครรับบริการ e-Statement สำหรับลูกค้าสินเชื่อ</a></p>
-            <p>ท่านสามารถร้องขอสำเนาเอกสารใบแจ้งยอดหรือใบเสร็จรับเงินผ่านช่องทาง CIMB Care Center ที่หมายเลข 02-626-7777</p>
+            <p>ท่านสามารถร้องขอสำเนาเอกสารใบแจ้งยอด/ใบเสร็จรับเงินผ่านช่องทาง CIMB Care Center ที่หมายเลข 02-626-7777</p>
           </ul>
         </div>
       </div>
@@ -465,7 +465,7 @@
 
       <div class="item" data-id="17">
         <div class="question" tabindex="0" role="button" aria-expanded="false">
-          <h3>Form Download Center แบบฟอร์มและเอกสารที่เกี่ยวข้อง สำหรับผลิตภัณฑ์สินเชื่อประเภทมีหลักประกัน</h3>
+          <h3><strong style="color:var(--accent)">Form Download Center</strong> แบบฟอร์มและเอกสารที่เกี่ยวข้อง สำหรับผลิตภัณฑ์สินเชื่อประเภทมีหลักประกัน</h3>
           <div class="chev" aria-hidden="true">›</div>
         </div>
         <div class="answer" aria-hidden="true">
@@ -476,11 +476,11 @@
             <li><a href="https://drive.google.com/file/d/16YAMQYsgEiREBFQOSI9s5q6Cs_OYD0fC/view?usp=sharing_blank" id="form-pdpa" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอมเก็บรวบรวม ใช้ เปิดเผยข้อมูลส่วนบุคคล PDPA Consents</a></li>
             <li><a href="https://drive.google.com/file/d/1ctjuBQ2EMu_SkWXthoS_M3XZViwu4Esy/view?usp=sharing_blank" id="form-ncb" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอมในการเปิดเผยข้อมูล NCB</a></li>
             <li><a href="https://drive.google.com/file/d/1K6kGS4hJZeNps8Ieyh4AEeKQmYBvjedc/view?usp=sharing_blank" id="form-insurance" target="_blank" rel="noopener noreferrer">แบบสอบถามความต้องการซื้อประกันชีวิตคุ้มครองสินเชื่อบ้าน</a></li>
-            <li><a href="https://drive.google.com/file/d/18HL1PpORB1RnGvF3FyxMV5P8hZQ0n-0U/view?usp=sharing_blank" id="form-guide" target="_blank" rel="noopener noreferrer">คำแนะนำในการกรอกใบคำขอและลงชื่อ</a></li>
+            <li><a href="https://drive.google.com/file/d/18HL1PpORB1RnGvF3FyxMV5P8hZQ0n-0U/view?usp=sharing_blank" id="form-guide" target="_blank" rel="noopener noreferrer">คำแนะนำในการกรอกรายละเอียดและลงชื่อลงในแบบฟอร์มที่เกี่ยวกับการขอสินเชื่อประเภทมีหลักประกัน</a></li>
             <li><a href="https://drive.google.com/file/d/1ttUvl179uNtstflzSI-25o4sEFR4pZw3/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">แบบฟอร์มยกเลิกวงเงินสินเชื่อ ชำระหนี้ปิดบัญชี และไถ่ถอนหลักประกัน</a></li>
             <li><a href="https://drive.google.com/file/d/1yuOHsJgOT7e2jyNfcU5rn08GsIjnu3a8/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">ใบคำขอรับเงินคืน</a></li>            
             <li><a href="https://drive.google.com/file/d/1bPzrKv_S5NTXyxF1dvdnDmlENC2DqRsd/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">ใบคำขอปรับปรุงโครงสร้างหนี้ / ขยายระยะเวลาผ่อนชำระ</a></li>      
-            <li><a href="https://drive.google.com/file/d/15vLtB6iT-aHkXkTThEsrHMI2cOHXYuxK/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอมในการเปิดเผยข้อมูลดอกเบี้ยเงินกู้เ้พื่อที่อยู่อาศัยต่อกรมสรรพากร</a></li>            
+            <li><a href="https://drive.google.com/file/d/15vLtB6iT-aHkXkTThEsrHMI2cOHXYuxK/view?usp=sharing_blank" id="form-close" target="_blank" rel="noopener noreferrer">หนังสือให้ความยินยอมในการเปิดเผยข้อมูลเกี่ยวกับดอกเบี้ยเงินกู้สินเชื่อเพื่อที่อยู่อาศัยต่อกรมสรรพากร</a></li>            
             <li><a href="https://drive.google.com/file/d/1K8JK27M_yuYpTMRIQtwOrlj4sQe5NiAR/view?usp=sharing_blank" id="Sales sheet HL" target="_blank" rel="noopener noreferrer">Sales Sheet Homeloan ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่อบ้าน</a></li>
             <li><a href="https://drive.google.com/file/d/1OlgplTDN4sj0Lr_hrpE9NCvN_vREQflx/view?usp=sharing_blank" id="Sales Sheet MP" target="_blank" rel="noopener noreferrer">Sales sheet Mortgagepower ตารางการเปิดเผยข้อมูลผลิตภัณฑ์สินเชื่ออเนกประสงค์</a></li>
           </ul>
